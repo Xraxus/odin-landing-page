@@ -1,2 +1,5 @@
 # odin-landing-page
-Landing page created with flex
+Second project in TOP - landing page created using flexbox
+
+The website itself is about dachshunds
+
