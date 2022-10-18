@@ -59,6 +59,7 @@ nav ul{
   font-size: 48px;
   font-weight: 800;
   margin: 10px 0;
+  line-height: 1.1;
 }
 
 .header-flex p {
@@ -81,6 +82,7 @@ nav ul{
 .header-img{
   max-width: 500px;
   height: auto;
+  border-radius: 5px;
 }
 
 
